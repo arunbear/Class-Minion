@@ -6,6 +6,7 @@ requires 'Package::Stash', '0.36';
 requires 'Params::Validate', '1.10';
 requires 'Readonly', '2.00';
 requires 'Sub::Name',      '0.09';
+requires 'Module::Runtime';
 
 on test => sub {
     requires 'Test::Lib',  '0.002';
