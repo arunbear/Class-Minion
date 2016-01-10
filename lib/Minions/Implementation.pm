@@ -1,6 +1,7 @@
 package Minions::Implementation;
 
 use strict;
+use warnings;
 use Minions::_Guts;
 use Package::Stash;
 use Readonly;

@@ -1,5 +1,7 @@
 package Minions::Role;
 
+use strict;
+use warnings;
 require Minions::Implementation;
 
 our @ISA = qw( Minions::Implementation );
