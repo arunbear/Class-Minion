@@ -18,7 +18,7 @@ use Exception::Class (
 );
 use Minions::_Guts;
 
-our $VERSION = '1.000000';
+our $VERSION = '1.000001';
 $VERSION = eval $VERSION;
 
 my $Class_count = 0;
@@ -743,7 +743,7 @@ Minions - Simplifies the creation of loosely coupled object oriented code.
 
 =head1 STATUS
 
-This is an early release available for testing and feedback and as such is subject to change.
+This module is now deprecated. Please use L<Mic> instead. 
 
 =head1 DESCRIPTION
 
