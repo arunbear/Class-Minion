@@ -1,6 +1,7 @@
 package Minions;
 
 use strict;
+use warnings;
 use 5.008_005;
 use Carp;
 use Hash::Util qw( lock_keys );

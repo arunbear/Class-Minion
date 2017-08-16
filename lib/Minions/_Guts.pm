@@ -1,5 +1,7 @@
 package Minions::_Guts;
 
+use strict; 
+use warnings;
 use Digest::MD5 qw( md5_hex );
 
 our %obfu_name;
